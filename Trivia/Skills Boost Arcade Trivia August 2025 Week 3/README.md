@@ -171,7 +171,7 @@ kubectl scale deployment/locust-worker --replicas=20
 # echo http://$EXTERNAL_IP:8089
 ```
 
-###### App Dev: Adding User Authentication to your Application - Python
+## App Dev: Adding User Authentication to your Application - Python
 
 ```shell
 git clone https://github.com/GoogleCloudPlatform/training-data-analyst
