@@ -7,6 +7,15 @@
 3. Skills Boost Arcade Trivia August 2025 Week 3
 4. Skills Boost Arcade Trivia August 2025 Week 4
 
+#### Game
+
+1. Future Ready Skills
+2. Level 3: Terraform Essentials
+
+#### Skill
+
+1. Share Data Using Google Data Cloud
+
 #### Lab Free
 
 1. Digital Transformation with Google Cloud
