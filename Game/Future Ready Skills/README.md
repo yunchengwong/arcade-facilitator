@@ -531,7 +531,7 @@ flutter create startup_namer
 
 cd startup_namer
 
-sed -i 's/Flutter Demo Home Page/Flutter is awesome\!'/g' lib/main.dart
+sed -i 's/Flutter Demo Home Page/Flutter is awesome!/g' lib/main.dart
 
 # fwr
 ```
